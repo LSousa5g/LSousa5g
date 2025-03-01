@@ -1,4 +1,4 @@
-## Olá eu sou o Lucas Sousa, estudante de programação 👋
+## Olá eu sou o Lucas Sousa, Desenvolvedor Web 👋
 
 Atualmente estudando **HTML, CSS, JS e JAVA** e aprimorando minhas development skills.
 
