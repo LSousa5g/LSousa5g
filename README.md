@@ -1,6 +1,6 @@
 ## Olá eu sou o Lucas Sousa, estudante de programação 👋
 
-Atualmente estudando HTML, CSS, JS e JAVA e aprimorando minhas development skills.
+Atualmente estudando **HTML, CSS, JS e JAVA** e aprimorando minhas development skills.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
